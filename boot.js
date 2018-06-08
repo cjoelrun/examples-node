@@ -7,3 +7,4 @@ require("./Workflows/WaitEventWorkflow");
 require("./Workflows/EventWorkflow");
 require("./Workflows/VersionWorkflow");
 require("./Recursive/RecursiveWorkflow");
+require("./Workflows/WriteWorkflow");
